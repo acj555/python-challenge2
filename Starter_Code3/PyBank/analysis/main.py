@@ -113,4 +113,4 @@ with open(file_to_output, "w") as txt_file:
     txt_file.write("\nThe greatest decrease in profits:")
     txt_file.write(decrease_str_month)
     txt_file.write(" $")
-    txt_file.write(decrease_str)
+  
